@@ -28,3 +28,5 @@
 - Email : xx
 - Git : @teashoe
 - Discord : teshoe_
+
+I have made some of my repositories private for personal reasons. <br> If you have an issue with a private project or have a suggestion, contact me on Discord DM 🙏
